@@ -9,8 +9,8 @@ A neural network can be used to solve a problem by Data collection and Preproces
 
 For the problem statement we have dealt with , we have developed a neural network with three hidden layers. First hidden layer consists of 4 neurons ,second hidden layer with 8 neurons , third layer with 5 neurons . The input and output layer contain 1 neuron . The Activation Function used is 'relu'.
 ## Neural Network Model
+![Screenshot 2024-08-30 114406](https://github.com/user-attachments/assets/f6323f31-2c4a-4a1d-b316-26bc6f8a3797)
 
-![Screenshot 2024-08-30 114053](https://github.com/user-attachments/assets/d9c70280-32ae-4799-a14f-a2136729ea7a)
 
 ## DESIGN STEPS
 
